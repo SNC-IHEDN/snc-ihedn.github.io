@@ -1,0 +1,13 @@
+<div class="shortcode shortcode--google-maps">
+    <iframe 
+        src='{{ .Get "location" }}'
+		width='{{ with .Get "width" }}{{.}}{{else}}100%{{end}}'
+		height='{{ with .Get "height" }}{{.}}{{else}}300px{{end}}'
+		scrolling='{{ with .Get "scrolling" }}{{.}}{{else}}no{{end}}'
+        style="border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
+

@@ -1,4 +1,4 @@
-baseURL = 'http://aa-snc.org/'
+baseURL = 'https://snc-ihedn.github.io/'
 languageCode = 'en-us'
 title = 'AA-SNC'
 theme = ["ananke-custom"]

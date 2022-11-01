@@ -5,4 +5,5 @@ menu:
   main:
     weight: 2
 ---
-Exemple de liste d'events français.
+
+Venez en apprendre plus sur l'association à travers les évènements qu'elle organise.

@@ -5,4 +5,4 @@ menu:
   main:
     weight: 3
 ---
-Exemple de liste d'article français.
+Nous postons ici des articles et sujets sur les thèmes en rapport avec l’association ou ses membres.
