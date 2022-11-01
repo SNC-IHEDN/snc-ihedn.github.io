@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Évènements on AA-SNC Fr</title>
+    <link>http://aa-snc.org/event/</link>
+    <description>Recent content in Évènements on AA-SNC Fr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="http://aa-snc.org/event/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A quoi ça sert un câble sous-marin ?</title>
+      <link>http://aa-snc.org/event/cables_sous-marin/</link>
+      <pubDate>Thu, 10 Feb 2022 20:58:08 -0400</pubDate>
+      
+      <guid>http://aa-snc.org/event/cables_sous-marin/</guid>
+      <description>Rencontre du 10 février 2022 Intervenant: Jean-Luc Vuillemin VP Executive DG Orange International Networks Infrastructure &amp;amp; Services Président du Comité de Surveillance Orange Marine Président de Orange International Network Afrique
+salle de la Commission Défense à partir de 18h30, au 33 rue Saint-Dominique Paris 75007 et par visio-conférence Souveraineté Numérique et Cybersécurité IHEDN</description>
+    </item>
+    
+  </channel>
+</rss>

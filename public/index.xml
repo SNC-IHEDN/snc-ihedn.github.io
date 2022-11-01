@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AA-SNC on AA-SNC Fr</title>
+    <link>http://aa-snc.org/</link>
+    <description>Recent content in AA-SNC on AA-SNC Fr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Jul 2022 11:41:59 +0200</lastBuildDate><atom:link href="http://aa-snc.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guerilla 2.0</title>
+      <link>http://aa-snc.org/post/guerilla2.0/</link>
+      <pubDate>Fri, 08 Jul 2022 11:41:59 +0200</pubDate>
+      
+      <guid>http://aa-snc.org/post/guerilla2.0/</guid>
+      <description>Préface du général d’armée Thierry Burkhard, Chef d’état-major de l’armée de Terre
+Alors que les technologies de l’information et de la communication favorisent le développement d’une société plus ouverte, interconnectée, elles permettent également l’émergence de nouvelles menaces et conflits. La guerre irrégulière connaît un développement inédit : la guérilla 2.0.
+Pour autant, la nature du combat insurrectionnel a-t-elle évolué ? La révolte 2.0 est-elle si différente des barricades de 1848 ?</description>
+    </item>
+    
+    <item>
+      <title>A quoi ça sert un câble sous-marin ?</title>
+      <link>http://aa-snc.org/event/cables_sous-marin/</link>
+      <pubDate>Thu, 10 Feb 2022 20:58:08 -0400</pubDate>
+      
+      <guid>http://aa-snc.org/event/cables_sous-marin/</guid>
+      <description>Rencontre du 10 février 2022 Intervenant: Jean-Luc Vuillemin VP Executive DG Orange International Networks Infrastructure &amp;amp; Services Président du Comité de Surveillance Orange Marine Président de Orange International Network Afrique
+salle de la Commission Défense à partir de 18h30, au 33 rue Saint-Dominique Paris 75007 et par visio-conférence Souveraineté Numérique et Cybersécurité IHEDN</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://aa-snc.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://aa-snc.org/about/</guid>
+      <description>Qui sommes-nous ? L’administration de l’association est assurée par 2 organes décisionnels :
+ Le comité directeur, composé de 20 membres actuellement, qui valide les demandes d’adhésion, se prononce sur les propositions de décision que lui soumet le bureau, oriente et alimente les réflexions et travaux de l’association ; Le bureau, composé actuellement de 16 membres issus du comité directeur, représente l’association dans tous ses actes, et assure la gestion et l’administration au quotidien de l’association, notamment l’organisation de l’assemblée générale annuelle.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://aa-snc.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://aa-snc.org/contact/</guid>
+      <description>Ceci est la page de contact en Français.
+This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
+Votre nomAdresse e-mailUne adresse e-mail est requise.Message</description>
+    </item>
+    
+  </channel>
+</rss>
