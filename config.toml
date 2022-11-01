@@ -1,0 +1,45 @@
+baseURL = 'http://aa-snc.org/'
+languageCode = 'en-us'
+title = 'AA-SNC'
+theme = ["ananke-custom"]
+defaultcontentlanguage = "fr"
+
+
+[languages]
+  [languages.fr]
+    title = "AA-SNC Fr"
+    weight = 1
+    contentDir = "content/fr"
+  # [languages.en]
+  #   title = "AA-SNC"
+  #   weight = 2
+  #   contentDir = "content/en"
+
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = "/images/logo-aasnc-reduce.png"
+  site_logo = "/images/logo-aasnc-b.png"
+  description = "L’Association des Auditeurs Souveraineté Numérique et Cybersécurité"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  mainSections = ["post"]
+  secondSections = ["event"]
+  recent_posts_number = 3
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/groups/8966912/"
+
+[[params.ananke_socials]]
+name = "formation"
+url = "https://ihedn.fr/formation/souverainete-numerique-et-cybersecurite/"
+
+[[params.ananke_socials]]
+name = "chaire cyber"
+url = "https://cyber-ihedn.fr/"
+
+[[params.ananke_socials]]
+name = "ANSSI"
+url = "https://www.ssi.gouv.fr/"
